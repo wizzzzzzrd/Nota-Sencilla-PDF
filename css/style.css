@@ -1,0 +1,19 @@
+   .table-fixed {
+      table-layout: fixed;
+    }
+
+    .col-desc {
+      width: 60%;
+    }
+
+    .col-qty {
+      width: 10%;
+    }
+
+    .col-unit {
+      width: 15%;
+    }
+
+    .col-imp {
+      width: 15%;
+    }
